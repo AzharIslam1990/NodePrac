@@ -16,3 +16,5 @@ console.log(arr[0]);
 
 const app = require('./app')
 console.log(app.x);
+
+console.log('ksdj fkdjg');
